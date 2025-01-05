@@ -4,7 +4,7 @@
 
 
 
-Fire About Me:
+About Me:
 
 🔭I'm Computer Engineering Graduate
 
