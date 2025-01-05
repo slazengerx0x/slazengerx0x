@@ -1,8 +1,7 @@
-GM 👋, I'm Slazenger
+                                                            GM 👋, I'm Slazenger
 
-Full Stack BlockChain Dev exploring DeFi!
+                                                  Full Stack BlockChain Dev exploring DeFi!
 
-slazengerx0x
 
 
 Fire About Me:
